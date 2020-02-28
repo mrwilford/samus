@@ -1,6 +1,4 @@
 .vscode/**
 .vscode-test/**
 .gitignore
-*.bat
-*.psd
-example.*
+vsc-extension-quickstart.md

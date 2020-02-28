@@ -5,9 +5,6 @@
 ✓ Dark theme for Visual Studio Code.<br />
 ✓ Low contrast and easy on the eyes.<br />
 ✓ Works with [all languages built-in to vscode](https://blogs.msdn.microsoft.com/user_ed/2015/10/24/what-languages-are-supported-for-visual-studio-code/).<br />
-✓ Color palette rooted in deep purples and reds.<br />
-
-![color palette](palette.png)
 
 
 ## Make Changes
@@ -26,7 +23,6 @@ See the [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getst
 ## Screenshot
 Dart code example:
 
-![Theme Screenshot](example-dart.jpg)
 
 
 ## Changelog
