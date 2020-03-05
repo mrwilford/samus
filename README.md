@@ -23,11 +23,11 @@ See the [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getst
 ## Screenshots
 
 ### Javascript
-![Javascript Screenshot](examples\example.js.jpg)
+![Javascript Screenshot](examples/example.js.jpg)
 ### C++
-![C++ Screenshot](examples\example.cpp.jpg)
+![C++ Screenshot](examples/example.cpp.jpg)
 ### Dart
-![Dart Screenshot](examples\example.dart.jpg)
+![Dart Screenshot](examples/example.dart.jpg)
 
 
 ## Changelog
