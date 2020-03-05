@@ -1,13 +1,18 @@
 {
     "name": "samus",
-    "displayName": "samus",
-    "description": "",
-    "version": "0.0.1",
+    "displayName": "samus theme",
+    "description": "samus theme for vscode",
+    "version": "1.0.0",
     "publisher": "mrwilford",
     "author": "@mrwilford",
     "license": "MIT",
+    "icon": "icon.jpg",
+    "galleryBanner": {
+        "color": "#242627",
+        "theme": "dark"
+    },
     "engines": {
-        "vscode": "^1.42.0"
+        "vscode": "^1.13.0"
     },
     "categories": [
         "Themes"
@@ -21,13 +26,18 @@
             }
         ]
     },
+    "bugs": {
+        "url": "https://github.com/mrwilford/samus/issues"
+    },
+    "homepage": "https://github.com/mrwilford/samus/blob/master/README.md",
     "repository": {
         "type": "git",
-        "url": "https://github.com/mrwilford/gruvball.git"
+        "url": "https://github.com/mrwilford/samus.git"
     },
     "keywords": [
         "Vscode",
         "Theme",
-        "gruvball"
+        "samus",
+        "mrwilford"
     ]
 }

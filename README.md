@@ -1,6 +1,6 @@
 # samus theme
 
-[![Version](https://vsmarketplacebadge.apphb.com/version/mrwilford.theme-samus.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-samus) [![Installs](https://vsmarketplacebadge.apphb.com/installs/mrwilford.theme-samus.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-samus) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/mrwilford.theme-samus.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.theme-samus) [![GitHub stars](https://img.shields.io/github/stars/mrwilford/samus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mrwilford/samus)
+[![Version](https://vsmarketplacebadge.apphb.com/version/mrwilford.samus.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.samus) [![Installs](https://vsmarketplacebadge.apphb.com/installs/mrwilford.samus.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.samus) [![Ratings](https://vsmarketplacebadge.apphb.com/rating/mrwilford.samus.svg)](https://marketplace.visualstudio.com/items?itemName=mrwilford.samus) [![GitHub stars](https://img.shields.io/github/stars/mrwilford/samus.svg?style=social&label=Star&maxAge=2592000)](https://github.com/mrwilford/samus)
 
 ✓ Dark theme for Visual Studio Code.<br />
 ✓ Low contrast and easy on the eyes.<br />
@@ -20,9 +20,14 @@ After installing samus you can modify it with the `workbench.colorCustomizations
 
 See the [VS Code Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) for more information.
 
-## Screenshot
-Dart code example:
+## Screenshots
 
+### Javascript
+![Javascript Screenshot](examples\example.js.jpg)
+### C++
+![C++ Screenshot](examples\example.cpp.jpg)
+### Dart
+![Dart Screenshot](examples\example.dart.jpg)
 
 
 ## Changelog
