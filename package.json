@@ -2,11 +2,11 @@
     "name": "samus",
     "displayName": "samus theme",
     "description": "samus theme for vscode",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "publisher": "mrwilford",
     "author": "@mrwilford",
     "license": "MIT",
-    "icon": "icon.jpg",
+    "icon": "icon.png",
     "galleryBanner": {
         "color": "#242627",
         "theme": "dark"

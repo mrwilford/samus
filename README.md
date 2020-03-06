@@ -7,6 +7,9 @@
 ✓ Works with [all languages built-in to vscode](https://blogs.msdn.microsoft.com/user_ed/2015/10/24/what-languages-are-supported-for-visual-studio-code/).<br />
 
 
+![samus](samus.jpg)
+
+
 ## Make Changes
 After installing samus you can modify it with the `workbench.colorCustomizations` setting in your "settings.json" file. For example:
 
