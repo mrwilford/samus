@@ -7,5 +7,5 @@ ECHO .git > "%TMP%\_xcopy_exclude.temp"
 ECHO *.vsix >> "%TMP%\_xcopy_exclude.temp"
 ECHO install.bat >> "%TMP%\_xcopy_exclude.temp"
 ::ECHO "%HOMEPATH%\.vscode\extensions\%this.dir%\"
-XCOPY "*.*" "%HOMEPATH%\.vscode\extensions\%this.dir%\" /S /E /H /Y /I /R /EXCLUDE:%TMP%\_xcopy_exclude.temp
+XCOPY "*.*" "%HOMEPATH%\.vscode\extensions\%this.dir%\" /S /E /H /Y /I /D /R /EXCLUDE:%TMP%\_xcopy_exclude.temp
 DEL "%TMP%\_xcopy_exclude.temp"

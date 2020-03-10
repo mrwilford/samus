@@ -12,3 +12,6 @@ All notable changes to the "samus" extension will be documented in this file.
 ## v1.0.2
 - Minor improvemnts
 
+## v1.0.3
+- Minor improvements
+
