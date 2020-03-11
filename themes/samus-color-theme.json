@@ -259,9 +259,9 @@
 		"debugToolBar.background": "#242627DD",
 		//"debugToolBar.border": "#E2812A",
 
-		//"welcomePage.background": "#ff0000",
-		"welcomePage.buttonBackground": "#E2812A",
-		//"welcomePage.buttonHoverBackground": "#FAC439",
+		"welcomePage.background": "#181A1B",
+		"welcomePage.buttonBackground": "#E2812A44",
+		"welcomePage.buttonHoverBackground": "#FAC43944",
 
 		"extensionButton.prominentForeground": "#181A1B",
 		"extensionButton.prominentBackground": "#E2812A",
